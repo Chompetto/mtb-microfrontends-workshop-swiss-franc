@@ -1,1 +1,0 @@
-# mtb-microfrontends-workshop-swiss-franc
